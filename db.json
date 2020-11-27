@@ -1,0 +1,62 @@
+{
+    "slider" : [
+        {
+            "id" : 1,
+            "url" : "#discounts/promo/$",
+            "image" : "img/offers/slider$.jpg",
+            "alt" : "Сумасшедший вторник",
+            "title" : "",
+            "description" : ""
+        },
+        {
+            "id" : 2,
+            "url" : "#discounts/promo/$",
+            "image" : "img/offers/slider$.jpg",
+            "alt" : "Скидка 20%",
+            "title" : "",
+            "description" : ""
+        },
+        {
+            "id" : 3,
+            "url" : "#discounts/promo/$",
+            "image" : "img/offers/slider$.jpg",
+            "alt" : "Обновленный режим работы",
+            "title" : "Обновленный режим работы",
+            "description" : ""
+        },
+        {
+            "id" : 4,
+            "url" : "#discounts/promo/$",
+            "image" : "img/offers/slider$.jpg",
+            "alt" : "Время доставки",
+            "title" : "С 22:00 до 7:00",
+            "description" : "действует только доставка и адресная доставка(вы можете забрать ваш заказ у входа в пиццерию)"
+        },
+        {
+            "id" : 5,
+            "url" : "#discounts/promo/$",
+            "image" : "img/offers/slider$.jpg",
+            "alt" : "Купи пиццу, получи скидку",
+            "title" : "",
+            "description" : ""
+        },
+        {
+            "id" : 6,
+            "url" : "#discounts/promo/$",
+            "image" : "img/offers/slider$.jpg",
+            "alt" : "Безконтактна доставка за 30 хвилин",
+            "title" : "",
+            "description" : ""
+        }
+    ],
+    "pizza-products" : [
+        {
+            "url": "pizza_mozzarella",
+            "productName": "Pizza Mozzarella",
+            "price": 155.05,
+            "image": "path/to/cdn.jpg",
+            "relatedProductIds": [7,12,98],
+            "categoryId": 3
+        }
+    ]
+}
