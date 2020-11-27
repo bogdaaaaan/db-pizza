@@ -86,5 +86,40 @@
             "image": "img/offers/slider$.jpg",
             "alt" : "Получи Coca-Cola в свой заказ бесплатно!"
         }
+    ],
+    "pizza" : [
+        {
+            "id" : 1,
+            "url": "pizza_pepperoni",
+            "category" : "best_price",
+            "categoryId": 1,
+            "productName": "Пицца Пепперони с томатами",
+            "productDescription": "Моцарелла, Пепперони, Помидоры, Соус Барбекю",
+            "price": 92.99,
+            "images": "img/pizza/pizza_pepperoni.jpg",
+            "relatedProductIds": [2,3] 
+        },
+        {
+            "id" : 2,
+            "url": "pizza_margarita",
+            "category" : "best_price",
+            "categoryId": 1,
+            "productName": "Пицца Маргарита",
+            "productDescription": "Моцарелла, Соус Domino's",
+            "price": 92.99,
+            "images": "img/pizza/pizza_margarita.jpg",
+            "relatedProductIds": [1,3] 
+        },
+        {
+            "id" : 3,
+            "url": "pizza_texas",
+            "category" : "best_price",
+            "categoryId": 1,
+            "productName": "Пицца Техас",
+            "productDescription": "Кукуруза, Лук, Грибы, Колбаски баварские, Моцарелла, Соус Барбекю",
+            "price": 92.99,
+            "images": "img/pizza/pizza_texas.jpg",
+            "relatedProductIds": [1,2] 
+        }
     ]
 }
