@@ -143,67 +143,83 @@
     "ingridients" : [
         {
             "id": 1,
-            "name" : "Пепперони"
+            "name" : "Пепперони",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 2,
-            "name" : "Моцарелла"
+            "name" : "Моцарелла",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 3,
-            "name" : "Помидоры"
+            "name" : "Помидоры",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 4,
-            "name" : "Соус Барбекю"
+            "name" : "Соус Барбекю",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 5,
-            "name" : "Соус Domino's"
+            "name" : "Соус Domino's",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 6,
-            "name" : "Кукуруза"
+            "name" : "Кукуруза",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 7,
-            "name" : "Лук"
+            "name" : "Лук",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 8,
-            "name" : "Грибы"
+            "name" : "Грибы",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 9,
-            "name" : "Колбаски баварские"
+            "name" : "Колбаски баварские",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 10,
-            "name" : "Моцарелла"
+            "name" : "Моцарелла",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 11,
-            "name" : "Помидоры"
+            "name" : "Помидоры",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 12,
-            "name" : "Соус Барбекю"
+            "name" : "Соус Барбекю",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 13,
-            "name" : "Соус Domino's"
+            "name" : "Соус Domino's",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 14,
-            "name" : "Кукуруза"
+            "name" : "Кукуруза",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 15,
-            "name" : "Лук"
+            "name" : "Лук",
+            "img" : "img/ingridients/$.jpg"
         },
         {
             "id": 16,
-            "name" : "Грибы"
+            "name" : "Грибы",
+            "img" : "img/ingridients/$.jpg"
         }
     ]
 }
