@@ -50,6 +50,50 @@
             "price": 92.99,
             "images": "img/pizza/pizza_texas.jpg",
             "relatedProductIds": [1,2] 
+        },
+        {
+            "id" : 4,
+            "url": "pizza_pepperoni_bluz",
+            "category" : "classic",
+            "categoryId": 2,
+            "productName": "Пицца Пепперони Блюз",
+            "ingridients": [10, 2, 1, 11],
+            "price": 124.99,
+            "images": "img/pizza/pizza_pepperoni_bluz.jpg",
+            "relatedProductIds": [5,6,7] 
+        },
+        {
+            "id" : 5,
+            "url": "pizza_tony_pepperoni",
+            "category" : "classic",
+            "categoryId": 2,
+            "productName": "Пицца Тони Пепперони",
+            "ingridients": [1,2,5],
+            "price": 124.99,
+            "images": "img/pizza/pizza_tony_pepperoni.jpg",
+            "relatedProductIds": [4,6,7] 
+        },
+        {
+            "id" : 6,
+            "url": "pizza_gawaii",
+            "category" : "classic",
+            "categoryId": 2,
+            "productName": "Пицца Гавайская",
+            "ingridients": [12,13,5],
+            "price": 124.99,
+            "images": "img/pizza/pizza_gawaii.jpg",
+            "relatedProductIds": [5,4,7] 
+        },
+        {
+            "id" : 7,
+            "url": "pizza_barbeque",
+            "category" : "classic",
+            "categoryId": 2,
+            "productName": "Пицца Барбекю",
+            "ingridients": [12, 7, 14, 8, 2, 4],
+            "price": 124.99,
+            "images": "img/pizza/pizza_barbeque.jpg",
+            "relatedProductIds": [5,6,7] 
         }
     ]
 }
