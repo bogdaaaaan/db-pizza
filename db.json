@@ -26,7 +26,7 @@
             "productName": "Пицца Пепперони с томатами",
             "ingridients": [2,1,3,4],
             "price": 92.99,
-            "images": "img/pizza/pizza_pepperoni.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [2,3] 
         },
         {
@@ -37,7 +37,7 @@
             "productName": "Пицца Маргарита",
             "ingridients": [2,5],
             "price": 92.99,
-            "images": "img/pizza/pizza_margarita.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [1,3] 
         },
         {
@@ -48,7 +48,7 @@
             "productName": "Пицца Техас",
             "ingridients": [6,7,8,9,2,4],
             "price": 92.99,
-            "images": "img/pizza/pizza_texas.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [1,2] 
         },
         {
@@ -59,7 +59,7 @@
             "productName": "Пицца Пепперони Блюз",
             "ingridients": [10, 2, 1, 11],
             "price": 124.99,
-            "images": "img/pizza/pizza_pepperoni_bluz.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [5,6,7] 
         },
         {
@@ -70,7 +70,7 @@
             "productName": "Пицца Тони Пепперони",
             "ingridients": [1,2,5],
             "price": 124.99,
-            "images": "img/pizza/pizza_tony_pepperoni.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [4,6,7] 
         },
         {
@@ -81,7 +81,7 @@
             "productName": "Пицца Гавайская",
             "ingridients": [12,13,5],
             "price": 124.99,
-            "images": "img/pizza/pizza_gawaii.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [5,4,7] 
         },
         {
@@ -92,8 +92,74 @@
             "productName": "Пицца Барбекю",
             "ingridients": [12, 7, 14, 8, 2, 4],
             "price": 124.99,
-            "images": "img/pizza/pizza_barbeque.jpg",
+            "images": "img/pizza/$.jpg",
             "relatedProductIds": [5,6,7] 
+        },
+        {
+            "id" : 8,
+            "url": "pizza_country",
+            "category" : "branded",
+            "categoryId": 3,
+            "productName": "Пицца Кантри",
+            "ingridients": [7, 14, 15, 8, 2, 16, 17],
+            "price": 152.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [9,10,11,12,13] 
+        },
+        {
+            "id" : 9,
+            "url": "pizza_ovochnaya_feeria",
+            "category" : "branded",
+            "categoryId": 3,
+            "productName": "Пицца Овощная Феерия",
+            "ingridients": [18, 7, 19, 8, 2, 3, 5],
+            "price": 152.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [8,10,11,12,13] 
+        },
+        {
+            "id" : 10,
+            "url": "pizza_curry",
+            "category" : "branded",
+            "categoryId": 3,
+            "productName": "Пицца Карри",
+            "ingridients": [12,20,7,13,2],
+            "price": 152.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [8,9,11,12,13] 
+        },
+        {
+            "id" : 11,
+            "url": "pizza_paparazzi",
+            "category" : "branded",
+            "categoryId": 3,
+            "productName": "Пицца ПапараZZи",
+            "ingridients": [18, 2,1,3,11],
+            "price": 152.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [8,9,10,12,13] 
+        },
+        {
+            "id" : 12,
+            "url": "pizza_carbonara",
+            "category" : "branded",
+            "categoryId": 3,
+            "productName": "Пицца Карбонара",
+            "ingridients": [7,14,15,8,2,11],
+            "price": 152.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [8,9,11,10,13] 
+        },
+        {
+            "id" : 13,
+            "url": "pizza_bavarskaya",
+            "category" : "branded",
+            "categoryId": 3,
+            "productName": "Пицца Баварская",
+            "ingridients": [21, 9, 2, 4],
+            "price": 152.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [8,9,11,12,10] 
         }
     ]
 }
