@@ -160,6 +160,39 @@
             "price": 152.99,
             "images": "img/pizza/$.jpg",
             "relatedProductIds": [8,9,11,12,10] 
+        },
+        {
+            "id" : 14,
+            "url": "pizza_provans",
+            "category" : "legends",
+            "categoryId": 4,
+            "productName": "Пицца Прованс",
+            "ingridients": [10,15,2,1,3,11],
+            "price": 172.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [15,16] 
+        },
+        {
+            "id" : 15,
+            "url": "pizza_spicy",
+            "category" : "legends",
+            "categoryId": 4,
+            "productName": "Пицца Спайси",
+            "ingridients": [14,2,1,3,5],
+            "price": 172.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [14,16] 
+        },
+        {
+            "id" : 16,
+            "url": "pizza_bbq_delux",
+            "category" : "legends",
+            "categoryId": 4,
+            "productName": "Пицца BBQ Делюкс",
+            "ingridients": [7,21,22,8,2,1,4],
+            "price": 172.99,
+            "images": "img/pizza/$.jpg",
+            "relatedProductIds": [14,15] 
         }
     ]
 }
