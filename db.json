@@ -93,7 +93,7 @@
             "ingridients": [12, 7, 14, 8, 2, 4],
             "price": 124.99,
             "images": "img/pizza/$.jpg",
-            "relatedProductIds": [5,6,7] 
+            "relatedProductIds": [5,6,4] 
         },
         {
             "id" : 8,
