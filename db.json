@@ -189,7 +189,7 @@
             "category" : "legends",
             "categoryId": 4,
             "productName": "Пицца BBQ Делюкс",
-            "ingridients": [7,21,22,8,2,1,4],
+            "ingridients": [7,21,19,8,2,1,4],
             "price": 172.99,
             "images": "img/pizza/$.jpg",
             "relatedProductIds": [14,15] 
